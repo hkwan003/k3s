@@ -41,7 +41,7 @@ replace (
 	k8s.io/apimachinery => github.com/k3s-io/kubernetes/staging/src/k8s.io/apimachinery v1.35.0-k3s3
 	k8s.io/apiserver => github.com/k3s-io/kubernetes/staging/src/k8s.io/apiserver v1.35.0-k3s3
 	k8s.io/cli-runtime => github.com/k3s-io/kubernetes/staging/src/k8s.io/cli-runtime v1.35.0-k3s3
-	k8s.io/client-go => github.com/hkwan003/kubernetes/staging/src/k8s.io/client-go cert-16yr
+	k8s.io/client-go => github.com/hkwan003/kubernetes/staging/src/k8s.io/client-go v1.35.0-k3s3-cert16yr
 	k8s.io/cloud-provider => github.com/k3s-io/kubernetes/staging/src/k8s.io/cloud-provider v1.35.0-k3s3
 	k8s.io/cluster-bootstrap => github.com/k3s-io/kubernetes/staging/src/k8s.io/cluster-bootstrap v1.35.0-k3s3
 	k8s.io/code-generator => github.com/k3s-io/kubernetes/staging/src/k8s.io/code-generator v1.35.0-k3s3
